@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Backing Helper</string>
+    <string name="app_filtr">Фильтр пользоватей</string>
+    <string name="title_item">Пользователь</string>
+    <string name="href_item">Создал тему: </string>
+    <string name="Quit">Выйти</string>
+
+    <string name="title">Продажа долей (пакеты дешевле $50)</string>
+    <string name="title_1">Продажа долей (пакеты от $50 до $500)</string>
+    <string name="title_2">Продажа долей (пакеты в $500 и дороже)</string>
+    <string name="title_3">Долгосрочный бэкинг, поиск и предложения</string>
+    <string name="title_4">Онлайн-бекинг — лимиты до $100</string>
+    <string name="title_5">Онлайн-бекинг — лимиты от $100</string>
+
+    <string name="no_connection">Нет интернета! Не могу просканировать страницу! Проверте соединение к сети</string>
+    <string name="start_polling_pokerStrategy">Начал мониторить форумы PokerStrategy</string>
+    <string name="start_polling_gipsyTeam">Начал мониторить форумы GipsyTeam</string>
+    <string name="stop_polling">Закончил мониторинг!</string>
+    <string name="new_theme_title">Новая тема</string>
+    <string name="new_theme_title_pokerStrategy">PokerStrategy</string>
+    <string name="new_theme_title_GipsyTeam">GipsyTeam</string>
+    <string name="new_theme_text">Пользователь </string>
+    <string name="new_theme_text1">создал тему: </string>
+    <string name="new_theme_text2">просмотров</string>
+
+    <string name="first_inst_tab_1">Сохранено данные для Вкладки 1</string>
+    <string name="first_inst_tab_2">Сохранено данные для Вкладки 2</string>
+    <string name="first_inst_tab_3">Сохранено данные для Вкладки 3</string>
+    <string name="first_inst_tab_4">Сохранено данные для Вкладки 4</string>
+    <string name="first_inst_tab_5">Сохранено данные для Вкладки 5</string>
+    <string name="first_inst_tab_6">Сохранено данные для Вкладки 6</string>
+    <string name="first_inst">Что-то пошло не так, как задумано :(</string>
+
+    <string name="list_title">Список нежелаемых пользователей</string>
+    <string name="hint_user">Введите имя пользователя</string>
+    <string name="user_add">Добавить</string>
+    <string name="filtr">Фильтр</string>
+    <string name="filtr_back">Назад</string>
+    <string name="filtr_delete">Удалить пользователя</string>
+    <string name="filtr_user">Пользователь</string>
+    <string name="filtr_is_deleted">удален из списка нежелаемых пользователей!</string>
+    <string name="filtr_delete_end">\?</string>
+    <string name="filtr_ok">Да</string>
+    <string name="filtr_no">Нет</string>
+
+
+</resources>
